@@ -1,6 +1,6 @@
 {
   "preview": "cert203-preview",
-  "background": "cert203-bg-4",
+  "background": "cert203-bg",
   "data": {
     "id": "a943b840-95f0-11ec-81b6-599469ea8f49",
     "eventId": "template",
@@ -18,7 +18,7 @@
       "color": "ffff6e30"
     },
     "generated": false,
-    "background": "https://ik.imagekit.io/certopus/Templates/cert203-bg4.svg",
+    "background": "https://ik.imagekit.io/certopus/Templates/cert203-bg.svg",
     "template": [
       {
         "id": "05309990-9a13-11ec-b7f1-a76cab3fc354",
