@@ -9,7 +9,7 @@ import fs from "fs";
     let category = p.split("/")[1];
     let list = data[category] ?? [];
     list.push(
-        "https://raw.githubusercontent.com/certopus/templates/test/" + p
+        "https://raw.githubusercontent.com/rajbheda5/templates/test/" + p
       );
     data[category] = list;
   });
