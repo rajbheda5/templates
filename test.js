@@ -2,7 +2,7 @@ import { globby } from "globby";
 import fs from "fs";
 
 (async () => {
-  const paths = await globby("templates/**/*.json");
+  const paths = await globby("templates/**/*.ctf");
   console.log(paths);
   let data = {};
   paths.forEach((p) => {
